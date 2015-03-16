@@ -2,6 +2,9 @@
 * Cedarx framework.
 * Copyright (c) 2008-2015 Allwinner Technology Co. Ltd.
 * Copyright (c) 2014 Ning Fang <fangning@allwinnertech.com>
+* Based on:
+* Qualcomm OpenMAX mm-core
+* Copyright (c) 2011-2012 The Linux Foundation. All rights reserved.
 *
 * This file is part of Cedarx.
 *
